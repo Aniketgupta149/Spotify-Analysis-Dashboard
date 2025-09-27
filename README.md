@@ -1,7 +1,6 @@
 # 🎧 Spotify Churn Analysis Dashboard  
 
-![Project Banner](assets/top-banner.png) <!-- 🖼️ Replace with your top image path -->
-
+![Project Banner](Home.png) 
 ## 📌 Project Overview  
 This project focuses on **user churn analysis for Spotify** using **Tableau** for visualization and **Figma** for design refinement.  
 The goal is to answer three key questions:  
@@ -50,7 +49,7 @@ The goal is to answer three key questions:
 
 ---
 
-![Dashboard Screenshot](assets/middle-dashboard.png) <!-- 🖼️ Replace with middle image path -->
+![Dashboard Screenshot](User.png) 
 
 ## 💡 Key Insights  
 - **Churn Rate:** **25.9%** (2,071 out of 8,000 users)  
